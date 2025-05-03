@@ -1,0 +1,35 @@
+generations:
+  - name: "First Generation"
+    start_year: 1958
+    end_year: 1959
+    description: "The original Impala was introduced as a high-end trim level of the Bel Air, featuring distinctive styling with six taillights and premium features. Available as a coupe and convertible, it established the Impala as Chevrolet's flagship full-size model. Engine options included V8s up to 348 cubic inches. Despite its short run, this generation established the Impala's reputation for combining style, luxury, and performance."
+
+  - name: "Second Generation"
+    start_year: 1959
+    end_year: 1960
+    description: "The drastically redesigned 1959 Impala featured distinctive 'bat wing' rear fenders and 'cat eye' taillights. Now its own model line rather than a Bel Air trim, it was available in coupe, convertible, and sedan body styles. This iconic design, though only produced for two years, is one of the most recognizable American cars of the era and helped establish the Impala as a cultural icon."
+
+  - name: "Third through Ninth Generations"
+    start_year: 1961
+    end_year: 1996
+    description: "Through the 1960s, the Impala became one of America's best-selling vehicles, with the 1965 model selling over one million units in a single year. The legendary 1961-1969 SS (Super Sport) models established the Impala's performance credentials. Subsequent generations through the 1970s and 1980s reflected changing automotive trends with downsizing, fuel efficiency focus, and evolving design language. The Impala name was temporarily retired after 1996 as Chevrolet consolidated its full-size sedan lineup."
+
+  - name: "Tenth Generation (Impala SS)"
+    start_year: 1994
+    end_year: 1996
+    description: "The Impala returned briefly as a high-performance Impala SS variant of the Caprice. Featuring a Corvette-derived 5.7L LT1 V8, sport suspension, and distinctive styling, this limited-production model became instantly collectible and maintained the Impala's performance heritage during an era when American performance cars were rare."
+
+  - name: "Eleventh Generation"
+    start_year: 2000
+    end_year: 2005
+    description: "After a brief hiatus, the Impala returned as a front-wheel drive sedan based on GM's W-body platform, replacing the Lumina in Chevrolet's lineup. Available with V6 engines including a supercharged variant in the SS model, this generation prioritized comfort and value over the performance focus of earlier Impalas. Despite criticism for its conservative styling and front-wheel drive layout, it sold well, particularly to fleet customers."
+
+  - name: "Twelfth Generation"
+    start_year: 2006
+    end_year: 2016
+    description: "A redesigned Impala continued on an updated version of the W-body platform with more distinctive styling. Engine options included V6s and a 5.3L V8 in the SS model (discontinued after 2009). A significant refresh in 2014 added modern technology and safety features. This generation balanced modern features with traditional full-size sedan values of space and comfort, continuing to serve both retail and fleet markets."
+
+  - name: "Thirteenth Generation"
+    start_year: 2014
+    end_year: 2020
+    description: "The final Impala generation moved to GM's Epsilon II platform shared with the Cadillac XTS. Featuring sophisticated styling and dramatically improved interior quality, it received critical acclaim including Consumer Reports' highest sedan rating at its launch. Powertrain options included a 2.5L four-cylinder, 2.4L hybrid (briefly), and 3.6L V6. Advanced technology and safety features brought the Impala into the modern era, but declining sedan sales led to its discontinuation in 2020, ending over 60 years of the Impala nameplate."
