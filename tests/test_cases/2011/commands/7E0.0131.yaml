@@ -30,13 +30,18 @@ test_cases:
     7E804413128CF
     7EA04413128F7
 - expected_values:
-    CLR_DIST: 11520
-  response: 7E80441312D00
-- expected_values:
-    CLR_DIST: 11777
+    CLR_DIST: 11815
   response: |-
-    7E80441312DD4
-    7EA0441312E01
+    7E80441312DFA
+    7EA0441312E27
+- expected_values:
+    CLR_DIST: 11776
+  response: 7E80441312E00
+- expected_values:
+    CLR_DIST: 11821
+  response: |-
+    7E80441312E00
+    7EA0441312E2D
 - expected_values:
     CLR_DIST: 4330
   response: |-
@@ -45,8 +50,3 @@ test_cases:
 - expected_values:
     CLR_DIST: 4724
   response: 7EA0441311274
-- expected_values:
-    CLR_DIST: 11732
-  response: |-
-    7EA0441312E00
-    7E80441312DD4
