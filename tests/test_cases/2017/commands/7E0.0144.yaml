@@ -1,6 +1,18 @@
 command_id: 7E0.0144
 test_cases:
 - expected_values:
+    EQ_RAT: 0.8965
+  response: "0144\n7E8 04 41 44 72 C0 "
+- expected_values:
+    EQ_RAT: 1.00002
+  response: "0144\n7E8 04 41 44 80 00 "
+- expected_values:
+    EQ_RAT: 1.00002
+  response: '7E8 04 41 44 80 00 '
+- expected_values:
+    EQ_RAT: 0
+  response: '7E80441440000'
+- expected_values:
     EQ_RAT: 0.90138
   response: |-
     7E80441447360
