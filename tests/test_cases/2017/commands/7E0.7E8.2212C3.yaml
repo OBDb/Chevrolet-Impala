@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 0.75
+  response: 7E8056212C30032
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 0.765
+  response: 7E8056212C30033
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 0.825
+  response: 7E8056212C30037
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 0.885
+  response: 7E8056212C3003B
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 0.945
+  response: 7E8056212C3003F
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 1.02
+  response: 7E8056212C30044
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 1.035
+  response: 7E8056212C30045
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 1.095
+  response: 7E8056212C30049
+- expected_values:
+    IMPALA_INJECTOR_DUTY_CYCLE_BANK_1: 1.125
+  response: 7E8056212C3004B
