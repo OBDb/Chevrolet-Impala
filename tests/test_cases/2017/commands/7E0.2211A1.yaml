@@ -1,31 +1,31 @@
 command_id: 7E0.2211A1
 test_cases:
 - expected_values:
-    CHEVROLET_RUNTM: 0
+    IMPALA_RUNTM: 0
   response: "2211A1\n7E8 05 62 11 A1 00 00 "
 - expected_values:
-    CHEVROLET_RUNTM: 109
+    IMPALA_RUNTM: 109
   response: '7E8 05 62 11 A1 00 6D '
 - expected_values:
-    CHEVROLET_RUNTM: 1120
+    IMPALA_RUNTM: 1120
   response: '7E8 05 62 11 A1 04 60 '
 - expected_values:
-    CHEVROLET_RUNTM: 1225
+    IMPALA_RUNTM: 1225
   response: '7E8 05 62 11 A1 04 C9 '
 - expected_values:
-    CHEVROLET_RUNTM: 1311
+    IMPALA_RUNTM: 1311
   response: '7E8 05 62 11 A1 05 1F '
 - expected_values:
-    CHEVROLET_RUNTM: 0
+    IMPALA_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:
-    CHEVROLET_RUNTM: 19
+    IMPALA_RUNTM: 19
   response: |-
     7E8056211A10013
     7E80462004636
 - expected_values:
-    CHEVROLET_RUNTM: 255
+    IMPALA_RUNTM: 255
   response: 7E8056211A100FF
 - expected_values:
-    CHEVROLET_RUNTM: 3097
+    IMPALA_RUNTM: 3097
   response: 7E8056211A10C19

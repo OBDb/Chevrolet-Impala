@@ -1,11 +1,11 @@
 command_id: 7E0.2211A1
 test_cases:
 - expected_values:
-    CHEVROLET_RUNTM: 0
+    IMPALA_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:
-    CHEVROLET_RUNTM: 1017
+    IMPALA_RUNTM: 1017
   response: 7E8056211A103F9
 - expected_values:
-    CHEVROLET_RUNTM: 1280
+    IMPALA_RUNTM: 1280
   response: 7E8056211A10500

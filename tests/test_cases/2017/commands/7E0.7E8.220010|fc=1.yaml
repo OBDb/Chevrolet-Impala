@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    IMPALA_MAF: 3.79
+  response: 7E805620010017B
