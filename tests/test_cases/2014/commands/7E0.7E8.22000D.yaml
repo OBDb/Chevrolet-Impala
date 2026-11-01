@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     IMPALA_VSS: 143
   response: 7E80462000D8F
+- expected_values:
+    IMPALA_VSS: null
+  response: 7E80462000DFF
